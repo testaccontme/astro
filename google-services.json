@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1061531550536",
+    "firebase_url": "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
+    "project_id": "vedicbhgyaapppp",
+    "storage_bucket": "vedicbhgyaapppp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061531550536:android:efa57fc2769148ea59a97d",
+        "android_client_info": {
+          "package_name": "com.vedicbhagya.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWYpitGR1snow_UT5tqBPybV9CZaDaQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061531550536:android:450f15d8b8eea3a959a97d",
+        "android_client_info": {
+          "package_name": "com.vedicbhagya.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWYpitGR1snow_UT5tqBPybV9CZaDaQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
