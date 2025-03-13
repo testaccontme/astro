@@ -5,18 +5,18 @@
 /// ==================================================================
 ///
 String contactsupportEmail = "support@gmail.com";
-String imgBaseurl = "https://vedicbhagya.in/";
-String pdfBaseurl = "https://vedicbhagya.in/public";
+String imgBaseurl = "https://vedicbhagya.com/";
+String pdfBaseurl = "https://vedicbhagya.com/public";
 String appMode = "LIVE";
-String OtplessappId = "A57OBN9737HZYKHXRGK2";
+String OtplessappId = "E77L3MS25UJSQ7IOLR7F";
 
 String storiesIcon = "assets/images/stories_icon.png";
 
 Map<String, dynamic> appParameters = {
   "LIVE": {
-    "apiUrl": "https://vedicbhagya.in/api/",
+    "apiUrl": "https://vedicbhagya.com/api/",
   },
   "DEV": {
-    "apiUrl": "https://vedicbhagya.in/api/",
+    "apiUrl": "https://vedicbhagya.com/api/",
   }
 };

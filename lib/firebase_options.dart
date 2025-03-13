@@ -50,25 +50,25 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-     apiKey: "AIzaSyDV_BuUIPw6o5azg3k7_noeoOP1wzBvRXU",
-  authDomain: "vedicbhgyaapppp.firebaseapp.com",
-  databaseURL: "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
-  projectId: "vedicbhgyaapppp",
-  storageBucket: "vedicbhgyaapppp.firebasestorage.app",
-  messagingSenderId: "1061531550536",
-  appId: "1:1061531550536:web:7f9e14440297582f59a97d",
-  measurementId: "G-KEX8F8LQGM",
+     apiKey: "AIzaSyCbNtlhvURYjW5JVOEHq_mWcsaa9MqYuhQ",
+    authDomain: "vedicbhagya-103cd.firebaseapp.com",
+  databaseURL: "https://vedicbhagya-103cd-default-rtdb.firebaseio.com",
+  projectId: "vedicbhagya-103cd",
+  storageBucket: "vedicbhagya-103cd.firebasestorage.app",
+  messagingSenderId: "867662913970",
+  appId: "1:867662913970:android:15c64f9361a2e400cfc4ab",
+  measurementId: "G-K14CPWQGXF",
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-   apiKey: "AIzaSyDV_BuUIPw6o5azg3k7_noeoOP1wzBvRXU",
-  authDomain: "vedicbhgyaapppp.firebaseapp.com",
-  databaseURL: "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
-  projectId: "vedicbhgyaapppp",
-  storageBucket: "vedicbhgyaapppp.firebasestorage.app",
-  messagingSenderId: "1061531550536",
-  appId: "1:1061531550536:web:7f9e14440297582f59a97d",
-  measurementId: "G-KEX8F8LQGM",
-    iosBundleId: 'om.vedicbhagya.partner',
+   apiKey: "AIzaSyC3A04YrhzrkJR71mibXalZuiTa55Y1eyM",
+   authDomain: "vedicbhagya-103cd.firebaseapp.com",
+  databaseURL: "https://vedicbhagya-103cd-default-rtdb.firebaseio.com",
+  projectId: "vedicbhagya-103cd",
+storageBucket: "vedicbhagya-103cd.firebasestorage.app",
+  messagingSenderId: "867662913970",
+  appId: "1:867662913970:ios:222ec461fd9bcfeacfc4ab",
+  measurementId: "G-K14CPWQGXF",
+    iosBundleId: 'com.vedicbhagyaastrologer.astrologerapp',
   );
 }

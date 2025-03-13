@@ -1,35 +1,42 @@
 {
   "project_info": {
-    "project_number": "1061531550536",
-    "firebase_url": "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
-    "project_id": "vedicbhgyaapppp",
-    "storage_bucket": "vedicbhgyaapppp.firebasestorage.app"
+    "project_number": "867662913970",
+    "firebase_url": "https://vedicbhagya-103cd-default-rtdb.firebaseio.com",
+    "project_id": "vedicbhagya-103cd",
+    "storage_bucket": "vedicbhagya-103cd.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1061531550536:android:efa57fc2769148ea59a97d",
+        "mobilesdk_app_id": "1:867662913970:android:15c64f9361a2e400cfc4ab",
         "android_client_info": {
-          "package_name": "com.vedicbhagya.app"
+          "package_name": "com.vedicbhagya.userapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+          "client_id": "867662913970-b69e1o03uqmebm2gr5b230da5sl266db.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyClWYpitGR1snow_UT5tqBPybV9CZaDaQ4"
+          "current_key": "AIzaSyCbNtlhvURYjW5JVOEHq_mWcsaa9MqYuhQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+              "client_id": "867662913970-b69e1o03uqmebm2gr5b230da5sl266db.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "867662913970-2sedckbnrvniij3cn1ms9nhgobfakrpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedicbhagya.userapp"
+              }
             }
           ]
         }
@@ -37,28 +44,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1061531550536:android:450f15d8b8eea3a959a97d",
+        "mobilesdk_app_id": "1:867662913970:android:2224d49b9146653ccfc4ab",
         "android_client_info": {
-          "package_name": "com.vedicbhagya.partner"
+          "package_name": "com.vedicbhagyaastrologer.astrologerapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+          "client_id": "867662913970-b69e1o03uqmebm2gr5b230da5sl266db.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyClWYpitGR1snow_UT5tqBPybV9CZaDaQ4"
+          "current_key": "AIzaSyCbNtlhvURYjW5JVOEHq_mWcsaa9MqYuhQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1061531550536-0ih0ndt9tg79tes3m4vfff5npeaupo49.apps.googleusercontent.com",
+              "client_id": "867662913970-b69e1o03uqmebm2gr5b230da5sl266db.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "867662913970-2sedckbnrvniij3cn1ms9nhgobfakrpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedicbhagya.userapp"
+              }
             }
           ]
         }

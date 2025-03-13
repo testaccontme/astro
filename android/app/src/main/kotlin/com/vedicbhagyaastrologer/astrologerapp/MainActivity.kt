@@ -1,4 +1,4 @@
-package com.vedicbhagya.partner
+package com.vedicbhagyaastrologer.astrologerapp
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
@@ -16,7 +16,7 @@ import com.otpless.otplessflutter.OtplessFlutterPlugin
 
 
 class MainActivity: FlutterActivity() {
-    private val CHANNEL_NAME = "com.vedicbhagya.partner/channel_test"
+    private val CHANNEL_NAME = "com.vedicbhagyaastrologer.astrologerapp/channel_test"
 
     override fun configureFlutterEngine(flutterEngine: FlutterEngine) {
         super.configureFlutterEngine(flutterEngine)

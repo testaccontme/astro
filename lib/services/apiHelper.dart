@@ -99,7 +99,7 @@ class APIHelper {
   Future<String?> getPrivacyUrl() async {
     try {
       final response = await http.post(
-        Uri.parse("https://vedicbhagya.in/admin/privacy-policy"),
+        Uri.parse("https://vedicbhagya.com/admin/privacy-policy"),
       );
       debugPrint('privacy- ${response.body}');
       String? privacyUrl;

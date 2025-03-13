@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-String termsconditionurl = "https://vedicbhagya.in/terms-condition";
+String termsconditionurl = "https://vedicbhagya.com/terms-condition";
 
 class TermAndConditionScreen extends StatelessWidget {
   TermAndConditionScreen({super.key});

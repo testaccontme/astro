@@ -50,7 +50,7 @@ class _PaymentScreenState extends State<PaymentScreen> {
                 log('payment screeen webview');
                 log(finish);
                 if (finish.toString().split("?").first ==
-                    "https://vedicbhagya.in/payment-success") {
+                    "https://vedicbhagya.com/payment-success") {
                   Get.find<HomeController>().homeTabIndex = 0;
                   Get.find<HomeController>().update();
                   Get.offAll(() => const HomeScreen());
@@ -62,7 +62,7 @@ class _PaymentScreenState extends State<PaymentScreen> {
                     fontSize: 14.sp,
                   );
                 } else if (finish.toString().split("?").first ==
-                    "https://vedicbhagya.in/payment-failed") {
+                    "https://vedicbhagya.com/payment-failed") {
                   Get.find<HomeController>().homeTabIndex = 0;
                   Get.find<HomeController>().update();
                   Get.offAll(() => const HomeScreen());

@@ -4,7 +4,7 @@ import 'package:astrowaypartner/services/apiHelper.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-String privacyUrl = "https://vedicbhagya.in/privacyPolicy";
+String privacyUrl = "https://vedicbhagya.com/privacyPolicy";
 
 class PrivacyPolicyScreen extends StatefulWidget {
   const PrivacyPolicyScreen({super.key});

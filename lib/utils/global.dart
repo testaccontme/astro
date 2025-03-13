@@ -248,7 +248,7 @@ Future<void> sendNotification({
     };
 
     final url = Uri.parse(
-        'https://fcm.googleapis.com/v1/projects/vedicbhgyaapppp/messages:send');
+        'https://fcm.googleapis.com/v1/projects/vedicbhagya-103cd/messages:send');
 
     final response = await http.post(
       url,
